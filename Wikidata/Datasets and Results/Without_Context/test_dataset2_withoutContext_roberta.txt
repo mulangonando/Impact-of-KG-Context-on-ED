@@ -1,0 +1,56 @@
+***** Running evaluation 100 *****
+  Num examples = %d 954
+  Batch size = %d 8
+HBox(children=(IntProgress(value=0, description='Evaluating', max=120, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+ tp  607
+ tn  230
+ fp  63
+ fn  54
+ mcc  0.7095312121579782
+ Precision  0.9059701492537313
+ Recall  0.9183055975794251
+ F1  0.9120961682945153
+Cannot compute precision and recall.
+***** Running evaluation 200 *****
+  Num examples = %d 954
+  Batch size = %d 8
+HBox(children=(IntProgress(value=0, description='Evaluating', max=120, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+ tp  606
+ tn  241
+ fp  52
+ fn  55
+ mcc  0.7372371552955435
+ Precision  0.9209726443768997
+ Recall  0.9167927382753404
+ F1  0.9188779378316907
+Cannot compute precision and recall.
+***** Running evaluation 300 *****
+  Num examples = %d 954
+  Batch size = %d 8
+HBox(children=(IntProgress(value=0, description='Evaluating', max=120, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+ tp  606
+ tn  241
+ fp  52
+ fn  55
+ mcc  0.7372371552955435
+ Precision  0.9209726443768997
+ Recall  0.9167927382753404
+ F1  0.9188779378316907
+Cannot compute precision and recall.
+***** Running evaluation graphs/wikidata_entity_linking_with_attentive_rnn_triplets_transformer_roberta_epoch_1/wikidata_query/outputs *****
+  Num examples = %d 954
+  Batch size = %d 8
+HBox(children=(IntProgress(value=0, description='Evaluating', max=120, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+ tp  608
+ tn  238
+ fp  55
+ fn  53
+ mcc  0.7335078076423762
+ Precision  0.9170437405731523
+ Recall  0.9198184568835098
+ F1  0.9184290030211479
+Cannot compute precision and recall.

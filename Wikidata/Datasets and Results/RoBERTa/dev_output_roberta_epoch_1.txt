@@ -1,0 +1,182 @@
+***** Running evaluation 10000 *****
+  Num examples = %d 19750
+  Batch size = %d 8
+HBox(children=(IntProgress(value=0, description='Evaluating', max=2469, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+ tp  9258
+ tn  8659
+ fp  1118
+ fn  715
+ mcc  0.8149658584995935
+ Precision  0.8922513492675405
+ Recall  0.9283064273538554
+ F1  0.909921863482235
+Cannot compute precision and recall.
+***** Running evaluation 12000 *****
+  Num examples = %d 19750
+  Batch size = %d 8
+HBox(children=(IntProgress(value=0, description='Evaluating', max=2469, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+ tp  9474
+ tn  8449
+ fp  1328
+ fn  499
+ mcc  0.8177067047088217
+ Precision  0.8770598037400481
+ Recall  0.9499649052441592
+ F1  0.912057761732852
+Cannot compute precision and recall.
+***** Running evaluation 14000 *****
+  Num examples = %d 19750
+  Batch size = %d 8
+HBox(children=(IntProgress(value=0, description='Evaluating', max=2469, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+ tp  9154
+ tn  8790
+ fp  987
+ fn  819
+ mcc  0.8171833523696447
+ Precision  0.9026723202839957
+ Recall  0.917878271332598
+ F1  0.9102117927811476
+Cannot compute precision and recall.
+***** Running evaluation 16000 *****
+  Num examples = %d 19750
+  Batch size = %d 8
+HBox(children=(IntProgress(value=0, description='Evaluating', max=2469, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+ tp  9436
+ tn  8589
+ fp  1188
+ fn  537
+ mcc  0.826986573539587
+ Precision  0.8881777108433735
+ Recall  0.9461546174671613
+ F1  0.9162499393115502
+Cannot compute precision and recall.
+***** Running evaluation 18000 *****
+  Num examples = %d 19750
+  Batch size = %d 8
+HBox(children=(IntProgress(value=0, description='Evaluating', max=2469, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+ tp  9210
+ tn  8813
+ fp  964
+ fn  763
+ mcc  0.8252324261607905
+ Precision  0.9052486730882642
+ Recall  0.9234934322671212
+ F1  0.9142800416935524
+Cannot compute precision and recall.
+***** Running evaluation 2000 *****
+  Num examples = %d 19750
+  Batch size = %d 8
+HBox(children=(IntProgress(value=0, description='Evaluating', max=2469, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+ tp  9123
+ tn  8538
+ fp  1239
+ fn  850
+ mcc  0.7889650923160199
+ Precision  0.8804284887087435
+ Recall  0.9147698786724155
+ F1  0.8972707155151216
+Cannot compute precision and recall.
+***** Running evaluation 20000 *****
+  Num examples = %d 19750
+  Batch size = %d 8
+HBox(children=(IntProgress(value=0, description='Evaluating', max=2469, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+ tp  9116
+ tn  8982
+ fp  795
+ fn  857
+ mcc  0.8327192221086707
+ Precision  0.9197860962566845
+ Recall  0.9140679835556001
+ F1  0.9169181251257292
+Cannot compute precision and recall.
+***** Running evaluation 22000 *****
+  Num examples = %d 19750
+  Batch size = %d 8
+HBox(children=(IntProgress(value=0, description='Evaluating', max=2469, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+ tp  9014
+ tn  9119
+ fp  658
+ fn  959
+ mcc  0.8366751693305758
+ Precision  0.9319685690653433
+ Recall  0.90384036899629
+ F1  0.9176889793840672
+Cannot compute precision and recall.
+***** Running evaluation 24000 *****
+  Num examples = %d 19750
+  Batch size = %d 8
+HBox(children=(IntProgress(value=0, description='Evaluating', max=2469, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+ tp  9227
+ tn  8965
+ fp  812
+ fn  746
+ mcc  0.8422206579702712
+ Precision  0.9191154497459907
+ Recall  0.9251980346936729
+ F1  0.9221467119728164
+Cannot compute precision and recall.
+***** Running evaluation 4000 *****
+  Num examples = %d 19750
+  Batch size = %d 8
+HBox(children=(IntProgress(value=0, description='Evaluating', max=2469, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+ tp  9130
+ tn  8512
+ fp  1265
+ fn  843
+ mcc  0.7871398545489778
+ Precision  0.8783068783068783
+ Recall  0.915471773789231
+ F1  0.8965043205027492
+Cannot compute precision and recall.
+***** Running evaluation 6000 *****
+  Num examples = %d 19750
+  Batch size = %d 8
+HBox(children=(IntProgress(value=0, description='Evaluating', max=2469, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+ tp  8961
+ tn  8795
+ fp  982
+ fn  1012
+ mcc  0.7980658326879034
+ Precision  0.9012370511917932
+ Recall  0.8985260202546876
+ F1  0.8998794938742719
+Cannot compute precision and recall.
+***** Running evaluation 8000 *****
+  Num examples = %d 19750
+  Batch size = %d 8
+HBox(children=(IntProgress(value=0, description='Evaluating', max=2469, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+ tp  9304
+ tn  8481
+ fp  1296
+ fn  669
+ mcc  0.8024891641913536
+ Precision  0.8777358490566037
+ Recall  0.9329188809786423
+ F1  0.9044864628396442
+Cannot compute precision and recall.
+***** Running evaluation graphs/wikidata_entity_linking_with_attentive_rnn_triplets_transformer_roberta_epoch_1/wikidata_query/outputs *****
+  Num examples = %d 19750
+  Batch size = %d 8
+HBox(children=(IntProgress(value=0, description='Evaluating', max=2469, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+ tp  9281
+ tn  8894
+ fp  883
+ fn  692
+ mcc  0.8406173383498255
+ Precision  0.913124754033845
+ Recall  0.9306126541662488
+ F1  0.9217857674926752
+Cannot compute precision and recall.
