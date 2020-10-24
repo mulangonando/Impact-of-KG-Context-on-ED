@@ -24,4 +24,4 @@ Find the code under the folder "Wikidata" in this repo
 3. Our results can be found uder the : "Datasets and Results"
 4. Feed the triples in the exact order in which they are retrieved from Wikidata (Will be cut off due to Sequence Length)
 
-
+The folder "Datasets and Results" in the folder "Wikidata"; contains results and predictions from our runs.
